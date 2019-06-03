@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">gmyaguitarra</string>
+    <string name="fecha">Fecha ensamble</string>
+    <string name="marca">Marca</string>
+    <string name="color">Color</string>
+    <string name="seis">6</string>
+    <string name="doce">12</string>
+    <string name="numero">Numero de cuerdas</string>
+    <string name="guarda">Guardar</string>
+    <string name="modifica">Modificar</string>
+    <string name="elimina">Eliminar</string>
+    <string name="limpia">Limpiar</string>
+    <string name="consultar">Consultar</string>
+    <string-array name="valores_array">
+        <item>Seleccione tipo</item>
+        <item>Acustica</item>
+        <item>Electrica</item>
+        <item>Electro acustica</item>
+    </string-array>
+    <string-array name="valores_arraay">
+        <item>Seleccione cuerdas</item>
+        <item>6</item>
+        <item>12</item>
+    </string-array>
+</resources>

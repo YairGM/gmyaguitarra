@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "33581407565",
+    "firebase_url": "https://gmyaguitarra.firebaseio.com",
+    "project_id": "gmyaguitarra",
+    "storage_bucket": "gmyaguitarra.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33581407565:android:d5bddfaed20c486f",
+        "android_client_info": {
+          "package_name": "com.gmail.yair.gmyaguitarra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "33581407565-pgh2k088gdv2e2rcuo2u8v3b09cg3f7b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqkVdVXYQ1YO_KU6MOEbpX_IFlQT9SkeQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "33581407565-pgh2k088gdv2e2rcuo2u8v3b09cg3f7b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
